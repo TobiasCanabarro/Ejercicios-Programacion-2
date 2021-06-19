@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1612460726 source:e:\documentos\proyectos c\estructuras enlazadas\ejercicio24\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1612459297 e:\documentos\proyectos c\estructuras enlazadas\ejercicio24\node.h
+	<stdio.h>
+	<stdlib.h>
+
+1612459247 e:\documentos\proyectos c\estructuras enlazadas\ejercicio24\file.h
+	<stdio.h>
+	<stdlib.h>
+
