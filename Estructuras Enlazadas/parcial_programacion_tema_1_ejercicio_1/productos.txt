@@ -1,0 +1,1 @@
+1,harina,10.5,12,manteca,20,23,agua,5.23,1
