@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1614356963 source:e:\documentos\proyectos c\estructuras enlazadas\espalindromo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
